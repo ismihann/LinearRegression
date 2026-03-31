@@ -1,1 +1,1 @@
-# Kurs-Projelerim
+# LinearRegression
